@@ -1,4 +1,4 @@
-# Unsupervised-Learning-Analysis_Mobile-App-Research-Survey
+# Unsupervised Learning Analysis - Mobile App Research Survey
 Analyzed app download behavior as well as other information related to customers using unsupervised machine learning techniques to provide to the marketing department a customer segmentation.
 
 ### Abstract of the analysis:
@@ -7,4 +7,7 @@ The mobile app research survey enabled us to gain insights by analyzing the cons
 We were able to identify six consumer clusters with distinct features that can be targeted by the marketing department.
 The main differentiating characteristics can be summarized by whether they follow trends or not, whether they have a lot of apps on their phone and whether they are early adopters or followers when it comes to technological developments.
 
-#### This was a team project developed with Carolin Kressel, Yogitha Ranga, Rohan Sonar.
+#### This was a team project developed with:
+Carolin Kressel
+[Yogitha Ranga](https://github.com/YogithaRanga)
+Rohan Sonar
