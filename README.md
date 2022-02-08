@@ -8,6 +8,6 @@ We were able to identify six consumer clusters with distinct features that can b
 The main differentiating characteristics can be summarized by whether they follow trends or not, whether they have a lot of apps on their phone and whether they are early adopters or followers when it comes to technological developments.
 
 #### This was a team project developed with:
-Carolin Kressel
-[Yogitha Ranga](https://github.com/YogithaRanga)
-Rohan Sonar
+- Carolin Kressel
+- [Yogitha Ranga](https://github.com/YogithaRanga)
+- Rohan Sonar
